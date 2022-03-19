@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I primarily work with React, Vue, CSS, JavaScript, MongoDB, Node, SQL, and AWS
+
 - 🔭 I’m currently working on: https://www.joinpaymentapp.com/
 - 💼 My portfolio: https://aaronangle.github.io/Portfolio/
 
