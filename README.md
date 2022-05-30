@@ -4,6 +4,7 @@ On a mission to code everyday. I primarily work with React, Vue, CSS, JavaScript
 - 💼 My portfolio: https://aaronangle.github.io/Portfolio/
 - 📪 Message or Connect with me on LinkedIn: https://www.linkedin.com/in/aaron-angle-260736194/
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronangle&layout=compact)](https://github.com/aaronangle/github-readme-stats)
 
 
