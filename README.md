@@ -15,8 +15,8 @@ I code with : 👇
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronangle&layout=compact)](https://github.com/aaronangle/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronangle&layout=compact)](https://github.com/aaronangle/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronangle&count_private=true&show_icons=true&hide=issues,contribs)](https://github.com/aaronangle/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronangle&count_private=true&show_icons=true&hide=issues,contribs)](https://github.com/aaronangle/github-readme-stats)
 
