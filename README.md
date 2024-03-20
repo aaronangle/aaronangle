@@ -1,10 +1,11 @@
-On a mission to code everyday. I primarily work with React, Vue, CSS, JavaScript, MongoDB, Node, SQL, and AWS
+This is my personal GitHub page, where I keep code I write outside of work hours (when I find time).
 
-- 🔭 I’m currently working on: https://www.joinpaymentapp.com/
+On a mission to code every day. I primarily work with React, Vue, CSS, JavaScript, MongoDB, Node, SQL, C#, and AWS.
+
 - 💼 My portfolio: https://aaronangle.github.io/Portfolio/
 - 📪 Message or Connect with me on LinkedIn: https://www.linkedin.com/in/aaron-angle-260736194/
 
-I code with : 👇
+I code with: 👇
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -16,7 +17,3 @@ I code with : 👇
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronangle&layout=compact)](https://github.com/aaronangle/github-readme-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronangle&count_private=true&show_icons=true&hide=issues,contribs)](https://github.com/aaronangle/github-readme-stats)
-
